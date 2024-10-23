@@ -7,7 +7,7 @@ Distillation of the originally trained model leads to significantly faster Sampl
 
 ## Acknowledgement
 
-I appreciate the following github repos a lot for their valuable code base:
+I appreciate the following github repos for their valuable code base:
 
 https://github.com/lucidrains/denoising-diffusion-pytorch
 
